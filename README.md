@@ -1,7 +1,7 @@
 # rainmeter
 Custom desktop made using Rainmeter
 ## Demo:
-![Demo gif](https://raw.github.com/wchlhyun/rainmeter/master/demo.gif "Demo")
+![Demo gif](demo.gif "Demo")
 
 ## Features:
 * Interactive clock, calendar dates
