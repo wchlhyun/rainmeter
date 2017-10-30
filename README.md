@@ -1,5 +1,5 @@
 # rainmeter
-Custome desktop made using Rainmeter
+Custom desktop made using Rainmeter
 ## Demo:
 ![Demo gif](https://raw.github.com/wchlhyun/rainmeter/master/demo.gif "Demo")
 
