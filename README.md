@@ -1,7 +1,7 @@
 # rainmeter
 Custome desktop made using Rainmeter
-#Demo:
-##Features:
+# Demo:
+## Features:
 -Interactive clock, calendar dates
 -Custom edited icons
 -Interactive to do list
@@ -9,7 +9,7 @@ Custome desktop made using Rainmeter
 -App launchers (color on-hover)
 -Toggleable music visualizer
 
-##Uses premade skins from:
+## Uses premade skins from:
 -Frost
 -Lines2.0
 -Genteel
